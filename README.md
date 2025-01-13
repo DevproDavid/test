@@ -1,2 +1,2 @@
 # test
-the test repo is for testing my github
+the test repository is for testing my github
